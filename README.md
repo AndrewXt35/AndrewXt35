@@ -1,16 +1,20 @@
-## Hi there 👋
+# Andrew Hernandez
 
-<!--
-**AndrewXt35/AndrewXt35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### C++ Software Developer | Systems Programming | Linux & Windows
 
-Here are some ideas to get you started:
+Computer Science student at UNLV focused on C++ development, systems programming, and building practical software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+
+### WindowsMaster
+C++ desktop application for Windows system management and monitoring.
+
+**Tech:** C++ · wxWidgets · Windows · MSYS2
+
+## Currently Learning
+
+C++ · Systems Programming · Linux · Software Engineering
+
+## Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/AndrewXt35)
