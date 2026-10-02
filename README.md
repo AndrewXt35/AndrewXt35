@@ -17,4 +17,4 @@ C++ · Systems Programming · Linux · Software Engineering
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/andrew-hernandez-847020228/?isSelfProfile=true) · [GitHub](https://github.com/AndrewXt35)
+[LinkedIn](https://www.linkedin.com/in/andrew-hernandez-847020228/?isSelfProfile=true) 
